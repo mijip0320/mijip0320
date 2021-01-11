@@ -16,5 +16,5 @@ Here are some ideas to get you started:
   -->
 
 
-![mijip0320's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=material-palenight&show_icons=true)
+![mijip0320's github stats](https://github-readme-stats.vercel.app/api?username=mijip0320&theme=material-palenight&show_icons=true)
 

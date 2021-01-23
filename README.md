@@ -1,5 +1,6 @@
 ### Hi there 👋
-#### Welcome to ✨miji's world✨
+
+#### Welcome to ✨MJ's world✨
 
 <!--
 **mijip0320/mijip0320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
-  
+
 🌱 I’m currently learning ...
 
 - Java
-- Spring Boot
-- ETC....if possible
+- Spring Framework/ Spring Boot
+- Git
 
 
-![mijip0320's github stats](https://github-readme-stats.vercel.app/api?username=mijip0320&theme=material-palenight&show_icons=true)
-
+![Miji's github stats](https://github-readme-stats.vercel.app/api?username=mijip0320&theme=material-palenight&show_icons=true)

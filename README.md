@@ -23,5 +23,3 @@ Here are some ideas to get you started:
 - Spring Framework/ Spring Boot
 - Git
 
-
-![Miji's github stats](https://github-readme-stats.vercel.app/api?username=mijip0320&theme=material-palenight&show_icons=true)

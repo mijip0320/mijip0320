@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning ...
 
-- Java
-- Spring Framework/ Spring Boot
+- React, Typescript, Nextjs
+- Storybook, zustand, Redux, tanstack-query
 - Git
 

@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Miji's+Github;Frontend+Developer+and+more!)](https://git.io/typing-svg)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijip&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijip0320&show_icons=true&theme=radical)
 
 <details>
 <summary>
